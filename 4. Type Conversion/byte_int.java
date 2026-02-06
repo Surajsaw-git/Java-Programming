@@ -53,5 +53,18 @@ class byte_int
         System.out.println(c);
         System.out.println(d);
 
+        // PS D:\Programming\Java\4. Type Conversion> cd "d:\Programming\Java\4. Type Conversion\" ; if ($?) { javac byte_int.java } ; if ($?) { java byte_int } 
+        // 127
+        // 127
+        // 25
+        // 25
+
+
+        byte x;
+        int y=257;
+        x=(byte)y;  
+        System.out.println(x);
+        System.out.println(y);
+
     }
 }
