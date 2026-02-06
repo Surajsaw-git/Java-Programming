@@ -6,7 +6,7 @@ class Variables_declare
         int num;
         double avg_marks;
         float marks;  // in java float will not work so we have to specifie that it is a float value.
-        float mark_math;
+        float mark_math;   // i.e marks = 50.65f
         char symball;
         String name;
 
@@ -23,6 +23,22 @@ class Variables_declare
         //System.out.println(mark_math);
         System.out.print(avg_marks);
         System.out.println(symball);
+
+
+
+
+
+        int num1= 78548;
+        byte by=127;
+        short sh=23;
+        long l=637845673472l;
+
+        System.out.println(num1);
+        System.out.println(by);
+        System.out.println(sh);
+        System.out.println(l);
+
+
     }
 }
 
