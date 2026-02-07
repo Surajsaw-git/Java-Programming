@@ -13,6 +13,9 @@ class logical_operators
         boolean result = (age >= 18) && (age <= 60);
         System.out.println(result);
 
+        result = (age >= 18) && (age <= 30);
+        System.out.println(result);
+
         int x=12;
         int y=15;
 
