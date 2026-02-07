@@ -22,5 +22,14 @@ class binary_number
 
         int num3 = 10_00_00_000;
         System.out.println(num3);
+
+        //OUTPUT
+
+        // PS D:\Programming\Java\2. Variables> cd "d:\Programming\Java\2. Variables\" ; if ($?) { javac binary_number.java } ; if ($?) { java binary_number }
+        // 10
+        // 126
+        // 100000000
+        // 100000000
+        // PS D:\Programming\Java\2. Variables>
     }
 }

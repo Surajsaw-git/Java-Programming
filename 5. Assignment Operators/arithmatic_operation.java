@@ -44,10 +44,19 @@ class arithmatic_operation
         int num=7;
 
         int result=++num;
-        System.out.println(result);
+        System.out.println(result);  // output : 8
 
         num=7;
         result=num++;
-        System.out.println(result);
+        System.out.println(result);  // output : 7
+
+
+        // ++num: The ++ comes first, so the math happens first.
+        //In this version, the value is increased before the assignment to the variable happens. 
+
+
+        // num++: The num comes first, so the original value is used first. 
+        //In this version, the current value is "saved" for the assignment before the variable itself is updated. 
+
     }
 }
