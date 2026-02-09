@@ -1,5 +1,5 @@
 //Relational Operators 
-
+//Write a program to demonstrate all relational operators.
 class Relational_operator
 {
     public static void main(String args[])
