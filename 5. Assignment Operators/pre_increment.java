@@ -1,4 +1,4 @@
-//
+//Write a program to demonstrate pre-increment and post-increment.
 
 class pre_increment
 {
