@@ -54,3 +54,50 @@ Java uses "short-circuiting" for && and || to improve performance and prevent er
 
 * && (AND): If the first operand is false, the second is not evaluated because the result must be false.
 * || (OR): If the first operand is true, the second is not evaluated because the result must be true.
+
+
+## **🧑‍💻 Part 1: Practice Coding Questions (20 Questions)**
+🔹 Operators (Arithmetic, Relational, Logical)
+
+Write a program to add, subtract, multiply, divide, and modulus two numbers.
+
+Write a program to check whether a number is even or odd.
+
+Write a program to check whether a number is positive, negative, or zero.
+
+Write a program to compare two numbers and print the greater number.
+
+Write a program to find the largest of three numbers.
+
+Write a program to check whether a number is divisible by 5 and 11.
+
+Write a program to demonstrate pre-increment and post-increment.
+
+Write a program to demonstrate all relational operators.
+
+Write a program to demonstrate logical AND, OR, NOT.
+
+Write a program to check whether a year is a leap year.
+
+## 🎯 Part 2: Interview Questions with Focus Areas (20 Questions)
+**🔸 Operators**
+
+What are operators in Java?
+
+Types of operators in Java.
+
+Difference between == and =.
+
+Difference between && and &.
+
+Difference between || and |.
+
+What is the difference between pre-increment and post-increment?
+
+What is operator precedence?
+
+Which operator has the highest precedence?
+
+Can we use + operator with String? Explain.
+
+What happens if we divide an integer by zero?
